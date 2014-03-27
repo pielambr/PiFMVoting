@@ -5,5 +5,5 @@ A Python/PHP script that enables people to vote for songs that are broadcasted o
 
 The requirements are:
 ---------------------
--mysqlnd driver (for the query() instructions)
--mutagen, requests
+- mysqlnd driver (for the query() instructions)
+- mutagen, requests
