@@ -1,7 +1,9 @@
 PiFMVoting
 ==========
 
-A Python/PHP script that enables people to vote for songs that are broadcasted over FM with the use of a Raspberry Pi
+- This is a simple script to enable users to have full control over their PiFM / PiRate radio setup. 
+- The first part of this is written in python, and has an sqlite3 library with all the songs in it. Songs are scanned when the script is started and only the songs with valid ID3 tags for both title and artist are added to the database. The songs are not only added to this database, but are also sent to the PHP site and saved in the mysql database (I did this, because I run the PHP on one Pi and the Python on another one).
+- The second part is written in PHP and is a voting system. The votes are saved in a mysql database, and you can search the database for the songs you want to vote for. 
 
 The requirements are:
 ---------------------
