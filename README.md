@@ -16,3 +16,9 @@ Installation
 - On the Pi that plays the audio, you copy the pifm file to /root and give it execution right (`chmod +x /root/pifm`). 
 - After that you change the pifm_cfg.config file to whatever settings you would like and also change the settings in voting.php.
 - After that you should be able to run the script by executing `sudo python main.py > out.log &`
+
+Credits
+-------
+- Bootstrap: http://getbootstrap.com
+- jQuery: http://jquery.com/
+- http://www.icrobotics.co.uk/wiki/index.php/Turning_the_Raspberry_Pi_Into_an_FM_Transmitter
