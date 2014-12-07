@@ -13,7 +13,7 @@ The requirements are:
 Installation
 ------------
 - Installation is pretty simple. You dump the install.sql file into your PHPMyAdmin, which creates the desired tables. 
-- On the Pi that plays the audio, you copy the pifm file to /root and give it execution right (`chmod +x /root/pifm`). 
+- On the Pi that plays the audio, you copy the pifm file to /root and give it execution rights (`chmod +x /root/pifm`). 
 - After that you change the pifm_cfg.config file to whatever settings you would like and also change the settings in voting.php.
 - After that you should be able to run the script by executing `sudo python main.py > out.log &`
 
