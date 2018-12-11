@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fpielambr%2FPiFMVoting.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fpielambr%2FPiFMVoting?ref=badge_shield)
+
 PiFMVoting
 ==========
 
@@ -22,3 +24,7 @@ Credits
 - Bootstrap: http://getbootstrap.com
 - jQuery: http://jquery.com/
 - http://www.icrobotics.co.uk/wiki/index.php/Turning_the_Raspberry_Pi_Into_an_FM_Transmitter
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fpielambr%2FPiFMVoting.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fpielambr%2FPiFMVoting?ref=badge_large)
